@@ -6,11 +6,9 @@ editor: visual
 
  Análise da poluição do ar
 
-Insira uma fórmula aqui:
+
 
 $$\text{{Índice de poluição}} = \frac{{\text{{Poluentes emitidos}}}}{{\text{{População}}}}$$
-
-
 
 ![Indíces da qualidade do ar](indice-de-poluio-do-ar.png)
 
