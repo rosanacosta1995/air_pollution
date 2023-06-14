@@ -1,26 +1,14 @@
 ---
-title: "index.qmd"
+title: "Air Pollution"
 format: html
 editor: visual
 ---
 
-## Quarto
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+![](poluicao-atmosferica.png)
 
-## Running Code
+Este é um projeto piloto sobre poluição do ar. Navegue pelas páginas para obter mais informações sobre o assunto.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+[Dados](poluentes.html)
 
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+[Análise](resultados.html)

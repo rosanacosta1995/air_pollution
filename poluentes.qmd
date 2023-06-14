@@ -3,24 +3,36 @@ title: "Poluentes"
 format: html
 editor: visual
 ---
+ Dados sobre a poluição do ar
 
-## Quarto
+Aqui estão alguns dados sobre a poluição do ar:
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+| Cidade  | Índice de Qualidade do Ar |
+|---------|---------------------------|
+|São Paulo| 80                        |
+|Nova York| 65                        |
+| Pequim  | 120                       |
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
+Insira um gráfico do R aqui:
 
 ```{r}
-#| echo: false
-2 * 2
-```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+library(ggplot2)
+
+
+#Exemplo de dados fictícios
+
+dados<- data.frame(
+
+Cidade = c("São Paulo", "Nova York", "Pequim"),
+
+Indice = c(80, 65, 120)
+
+)
+
+ggplot(dados, aes(x = Cidade, y = Indice)) +
+
+geom_bar(stat = "identity", fill = "steelblue") +
+
+labs(x = "Cidade", y = "Índice de Qualidade do Ar", title = "Poluição do Ar em Cidades")
+```
