@@ -1,13 +1,24 @@
 ---
 title: "Air Pollution"
 format: html
-editor: visual
+engine: knitr 
 ---
 
+```{css, echo = FALSE}
+
+.justify {
+ 
+  text-align:
+justify !important
+}
+
+```
 
 ![](poluicao-atmosferica.png)
 
+:::{.justify}
 Este é um projeto piloto sobre poluição do ar. Navegue pelas páginas para obter mais informações sobre o assunto.
+:::
 
 [Dados](poluentes.html)
 
