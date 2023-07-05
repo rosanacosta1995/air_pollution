@@ -4,7 +4,9 @@ format: html
 editor: visual
 ---
 
-Análise da poluição do ar
+ Análise da poluição do ar
+
+
 
 $$\text{{Índice de poluição}} = \frac{{\text{{Poluentes emitidos}}}}{{\text{{População}}}}$$
 
@@ -12,6 +14,6 @@ $$\text{{Índice de poluição}} = \frac{{\text{{Poluentes emitidos}}}}{{\text{{
 
 Para obter mais informações sobre a poluição do ar, você pode visitar os seguintes links externos:
 
-\-[Wikipedia - Poluição do Ar](https://pt.wikipedia.org/wiki/Polui%C3%A7%C3%A3o_do_ar)
+-[Wikipedia - Poluição do Ar](https://pt.wikipedia.org/wiki/Polui%C3%A7%C3%A3o_do_ar)
 
-\-[World Health Organization - Air Pollution](https://www.who.int/health-topics/air-pollution#tab=tab_1)
+-[World Health Organization - Air Pollution](https://www.who.int/health-topics/air-pollution#tab=tab_1)

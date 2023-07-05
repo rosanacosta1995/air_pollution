@@ -1,0 +1,32 @@
+---
+title: "Agregando conhecimento científico"
+format: html
+editor: visual
+engine: knitr 
+---
+
+
+```{css, echo = FALSE}
+
+.justify {
+ 
+  text-align:
+justify !important
+}
+
+```
+
+ Artigos científicos
+ 
+**1. Estudos de séries temporais de poluição atmosférica
+por queimadas e saúde humana**.
+
+:::{.justify}
+**Resumo:** Queimadas e incêndios florestais de grandes proporções têm sido observados em diversas regiões do planeta. A exposição a altos níveis de poluentes atmosféricos emitidos por queimadas podem causar uma variedade de danos à
+saúde humana. Neste artigo, sumarizamos a literatura existente sobre estimação de efeitos agudos da poluição atmosférica por queimadas na saúde humana nas regiões em que estas estão concentradas em maior número no planeta, utilizandose abordagem de séries temporais. Também se buscou identificar lacunas de conhecimento. O estudo consistiu de uma revisão narrativa, em que as
+características dos estudos selecionados foram agrupadas pelas regiões do planeta em que há maior incidência de queimadas: Amazônia, Estados Unidos, Austrália e Ásia. Os resultados apontaram concentração de estudos na Austrália, poucos estudos realizados na Amazônia e grande heterogeneidade nos resultados sobre efeitos significativos na saúde humana.
+Palavras-chave Queimadas, Saúde humana, Séries temporais
+:::
+
+Para saber mais acesse: \- [Estudos de séries temporais de poluição atmosférica por queimadas e saúde humana](poluição.pdf)
+\- [Apresentação](artigo_1.html)

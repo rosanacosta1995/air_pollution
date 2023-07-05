@@ -1,0 +1,19 @@
+---
+subtitle: "Estudos de séries temporais de poluição atmosférica por queimadas e saúde humana"
+format: revealjs
+editor: visual
+---
+
+
+
+**"Estudos de séries temporais de poluição atmosférica por queimadas e saúde humana"**
+
+
+
+
+##  Queimadas e incêndios florestais de grandes proporções têm sido observados em diversas regiões do planeta.
+
+
+## 
+
+![](Captura de tela 2023-07-05 160742.jpg)

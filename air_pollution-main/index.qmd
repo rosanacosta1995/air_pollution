@@ -1,0 +1,29 @@
+---
+title: "Air Pollution"
+format: html
+engine: knitr 
+---
+
+```{css, echo = FALSE}
+
+.justify {
+ 
+  text-align:
+justify !important
+}
+
+```
+
+![](poluicao-atmosferica.png)
+
+:::{.justify}
+Este é um projeto piloto sobre poluição do ar. Navegue pelas páginas para obter mais informações sobre o assunto.
+:::
+
+[Dados](poluentes.html)
+
+[Análise](resultados.html)
+
+[Projeto](Apresentação__Reunião_de_sexta_feira.pdf)
+
+[Artigos](artigos.html)
