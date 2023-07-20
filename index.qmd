@@ -1,5 +1,5 @@
 ---
-title: "Air Pollution"
+title: "BLOG SOBRE POLUIÇÃO DO AR"
 format: html
 engine: knitr 
 ---
@@ -17,8 +17,9 @@ justify !important
 ![](poluicao-atmosferica.png)
 
 :::{.justify}
-Este é um projeto piloto sobre poluição do ar. Navegue pelas páginas para obter mais informações sobre o assunto.
+Este é um projeto piloto sobre poluição do ar, ainda em construção, mas vamos iniciar navegando pelos links abaixo.
 :::
+[Quem sou eu?](curriculo.html)
 
 [Dados](poluentes.html)
 
@@ -26,4 +27,6 @@ Este é um projeto piloto sobre poluição do ar. Navegue pelas páginas para ob
 
 [Projeto](Apresentação__Reunião_de_sexta_feira.pdf)
 
-[Artigos](artigos.html)
+[Tarefa 3](tarefa3.html)
+
+[Tarefa 4](tarefa4.pdf)

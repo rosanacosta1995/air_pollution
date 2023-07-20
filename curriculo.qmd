@@ -1,0 +1,24 @@
+---
+title: "QUEM SOU EU?"
+format: html
+engine: knitr 
+---
+```{css, echo = FALSE}
+
+.justify {
+ 
+  text-align:
+justify !important
+}
+
+```
+
+:::{.justify}
+Me chamo Rosana, tenho 28 anos sou Bacharela em Matemática Aplicada pela Universidade Federal do Rio Grande, já me aventurei pelas áreas de química e engenharia, mas minha grande paixão é a matemática. Atualmente sou mestranda do programa de pós-graduação em ambientometria, mas como sou uma pessoa que não consigo levar apenas um projeto a frente sinto a vontade de estar sempre adiquirindo conhecimento faço em paralelo uma graduação na área de estatística em formato EAD , além de uma graduação em matemática licenciatura, mas uma especialização na área de ensino a matemática e duas pós-graduações ao qual ganhei uma bolsa de estudo para cursar em formato EAD. 
+
+Para encerrar essa breve apresentação gostaria de compartilhar que esse blog sobre poluição atmosférica foi criado com o intuito de divulgar a minha pesquisa de mestrado que é sobre poluição atmosférica e seus impactos ao meio ambiente com o intuito de alertar a população sobre o ar que respiramos, mas também divulgar métodos estatísticos matemáticos que podem ser utilizados quando se trabalha com esse tipo de dados. Lembrando que é uma página em construção, então ainda não possui dados reais apenas genéricos para ilustrar de como funciona a página. 
+
+Espero que até dezembro todos os resultados já estejam prontos para ser divulgados aqui. 
+
+![](foto.jpeg)
+:::

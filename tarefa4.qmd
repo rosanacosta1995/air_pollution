@@ -1,0 +1,244 @@
+---
+title: "Title"
+format:
+  jasa-pdf:
+    keep-tex: true  
+    journal:
+      blinded: false
+  jasa-html: default
+date: last-modified
+author:
+  - name: Cleber Nascimento do Carmo  1
+    acknowledgements: | 
+      The authors gratefully acknowledge _please remember to list all relevant funding sources in the non-anonymized (unblinded) version_.
+    affiliations:
+      - name: Universidade Federal do Rio de Janeiro
+        department: 
+  - name: Sandra de Souza Hancon 2
+    affiliations:
+      - name: 
+        department: Departmento de Endemias Samuel Pessoa, Escola Nacional de Saúde Pública
+abstract: |
+  Em construção ainda
+keywords:
+  - 3 to 6 keywords
+  - that do not appear in the title
+bibliography: bibliography.bib  
+---
+
+## Introduction {#sec-intro}
+
+As queimadas têm chamado atenção e gerado alarme na sociedade desde o início da década de
+19801, Esta preocupação tem sido particularmente evidente na Amazônia e nas florestas tropicais da Ásia, por serem regiões que concentram
+a maior parte dos incêndios florestais no planeta. Mas incêndios florestais de grandes proporções têm sido observados em regiões da Austrá-
+lia, Europa e oeste dos Estados Unidos. Riscos para a saúde humana, destruição de recursos florestais e de biodiversidade, acidentes
+de transporte e o impacto negativo em diversos setores da economia devido às queimadas têm
+sido amplamente divulgados. Nos Estados Unidos, destaque é dado ao Estado da Califórnia, que apresentou uma sequência de incêndios florestais de grandes proporções nas décadas de 1980, 1990 e 2000. Em 2007, particularmente, a região teve o pior episódio de
+queimadas de sua história recente, com prejuízos estimados em 1 bilhão de dólares, destruição de 1.500 residências, afetando uma população de 1 milhão de pessoas, aproximadamente7,8. Em fevereiro de 2009, episódio semelhante ocorreu
+na Austrália, no que foi considerado o segundo maior incêndio da história do país e ficou conhecido como “sábado negro”, com 173 óbitos, 2.000
+domicílios destruídos e uma área devastada de mais 350.000 hectares. No Brasil, os incêndios florestais têm ocorrido, predominantemente, nas porções leste e sul da bacia Amazônica.
+O primeiro levantamento nacional sobre incêndios florestais foi feito em 1983. Naquele ano foram registrados 227 incêndios florestais, queimando uma área 22.269 hectares. No entanto,devido ao fato de muitas instituições públicas não terem registros daquela época, certamente o número real de focos de queimadas foi superior ao registrado pelo levantamento. É bem conhecido que a exposição a altos ní-
+veis de poluição atmosférica pode causar efeitos adversos à saúde humana, principalmente em crianças e idosos. Diversos episódios de severa poluição atmosférica ocorreram em vários países industrializados durante o século XX, provocando graves efeitos na saúde pública, como o
+caso de Londres, em 195215. Diretrizes de qualidade do ar foram estabelecidas com base em estudos sobre tais episódios de poluição atmosfé-
+rica e são atualizadas segundo resultados mais recentes. No entanto, a qualidade do ar melhorou significativamente nesses países desde a dé-
+cada de 1970, mas agravos à saúde humana causados pela exposição aos poluentes atmosféricos
+continuam sendo uma preocupação pública, motivados por um número elevado de estudos de séries temporais epidemiológicas que mostram
+associações positivas pequenas, mas estatisticamente significativas entre os poluentes e aumentos na morbimortalidade por causas cardiorrespiratórias.
+Os efeitos da poluição atmosférica por queimadas na saúde humana ainda são pouco estudados, embora seus níveis diários ultrapassem
+muitas vezes as medições de grandes centros urbanos poluídos. Todavia, os estudos existentes indicam que seus efeitos vão além de procuras imediatas aos hospitais para atendimentos por causas cardiorrespiratórias, podendo perdurar por diversos dias.
+Pesquisas sobre os efeitos da poluição atmosférica na saúde humana evoluíram a partir de estudos descritivos dos fenômenos iniciais de grandes aumentos nos efeitos adversos à saúde após episódios extremos de poluição do ar até as
+análises de séries temporais.
+Neste artigo, sumarizamos a literatura existente sobre a estimação de efeitos agudos da poluição atmosférica por queimadas na saúde humana nas regiões que concentram o maior número de queimadas no planeta. Foi utilizada abordagem de séries temporais, pois tal metodologia
+assume papel fundamental nos estudos atuais e na configuração de padrões aceitáveis de qualidade do ar para a saúde humana.
+Também se buscou identificar lacunas de conhecimento e questões de pesquisa detalhadas, que são essenciais para o sucesso das análises e divulgação de medidas e políticas preventivas.
+
+
+![Consistency comparison in fitting surrogate model in the tidal power example.](fig1.pdf){#fig-first width=3in}
+
+| one  | two  | three | four | five |
+|------|------|-------|------|------|
+| 1.23 | 3.45 | 5.00  | 1.21 | 3.41 |
+| 1.23 | 3.45 | 5.00  | 1.21 | 3.42 |
+| 1.23 | 3.45 | 5.00  | 1.21 | 3.43 |
+
+: D-optimality values for design X under five different scenarios. {#tbl-one}
+
+- Note that figures and tables (such as @fig-first and @tbl-one) should appear in the paper, not at the end or in separate files.
+- In document front matter, you may set the key `blinded` under a `journal` key to hide the authors and acknowledgements, producing the required anonymized version.
+- Remember that in the anonymized version, you should not identify authors indirectly in the text.  That is, don't say "In Smith et. al.  (2009) we showed that ...". Instead, say "Smith et. al. (2009) showed that ...".
+- These points are only intended to remind you of some requirements.
+Please refer to the instructions for authors
+at [http://amstat.tandfonline.com/action/authorSubmission?journalCode=uasa20&page=instructions#.VFkk7fnF_0c](http://amstat.tandfonline.com/action/authorSubmission?journalCode=uasa20&page=instructions#.VFkk7fnF_0c)
+- For more about ASA\ style, please see [https://files.taylorandfrancis.com/asa-style-guide.pdf](https://files.taylorandfrancis.com/asa-style-guide.pdf).
+- If you have supplementary material (e.g., software, data, technical
+proofs), identify them in the section below.  In early stages of the
+submission process, you may be unsure what to include as supplementary
+material.  Don't worry---this is something that can be worked out at later stages.
+
+## Methods {#sec-meth}
+
+Don't take any of these section titles seriously.
+They're just for illustration.
+
+## Verifications {#sec-verify}
+
+This section will be just long enough to illustrate what a full page of text looks like, for margins and spacing.
+
+
+:::{add-textheight=".5in"}
+
+@gelm:veht:2021 offer some guidance about key ideas about statistical ideas.
+On an unrelated note, spreadsheets are important to use correctly [@brom:woo:2018].
+Log-linear models are an attractive way to model categorical data [@bish:fien:1975].
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+**With this spacing we have 25 lines per page.**
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+:::
+
+
+:::{add-textheight=".2in"}
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+The quick brown fox jumped over the lazy dog.
+
+:::
+
+## Conclusion {#sec-conc}
+
+## Disclosure statement
+
+The authors have the following conflicts of interest to declare (or replace with a statement that no conflicts of interest exist).
+
+## Data Availability Statement
+
+Deidentified data have been made available at the following URL: XX.
+
+## Supplementary Material {.supplementary}
+
+Title:
+
+:   Brief description. (file type)
+
+
+R-package for  MYNEW routine: 
+
+:   R-package MYNEW containing code to perform the diagnostic methods described in the article. The package also contains all datasets used as examples in the article. (GNU zipped tar file)
+
+HIV data set:
+
+:   Data set used in the illustration of MYNEW method in @sec-verify (.txt file).
+
+## BibTeX 
+
+We encourage you to use BibTeX.
+If you have, please feel free to use the package natbib with any bibliography style you're comfortable with. The .bst file agsm has been included here for your convenience. 
